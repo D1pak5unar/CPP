@@ -19,3 +19,9 @@ int main()
 
     return 0;
 }
+
+/*
+Run using following command in the terminal
+clang fileName.c
+./a.out
+*/
