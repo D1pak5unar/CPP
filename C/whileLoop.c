@@ -8,7 +8,7 @@ Example:
 
 
 #include<stdio.h>
-#include<stdbool.h>
+//#include<stdbool.h> this is not needed for this code!!
 
 int main()
 {

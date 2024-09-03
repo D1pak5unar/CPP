@@ -1,0 +1,17 @@
+//program that only print even numbers. Change the value of i as you wish.
+
+#include<stdio.h>
+
+int main()
+{
+    int i = 0;
+
+    while (i < 15)
+    {
+        printf("%d\n", i);
+        i += 2;
+    }
+
+    return 0;
+    
+}
